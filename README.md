@@ -1,4 +1,5 @@
-#GUI Password Generator made by HajAgha
+**GUI Password Generator made by HajAgha**
+
 
 
 > `First run batch file to install modules`
